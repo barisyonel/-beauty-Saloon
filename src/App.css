@@ -1,0 +1,39 @@
+/* Tüm öğeler için margin ve padding sıfırlama */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HTML ve Body için tam genişlik ve yükseklik ayarı */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden; /* Yatay kaydırma çubuğunu kaldırır */
+}
+
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%; /* Ekranın tamamını doldurur */
+}
+
+/* Main içerik alanı */
+main {
+    flex: 1; /* İçeriğin boş alanı doldurmasını sağlar */
+}
+
+/* Footer */
+footer {
+    background-color: #ff69b4;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
