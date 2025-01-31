@@ -1,4 +1,4 @@
-# Ebru Karnak Güzellik Merkezi Web Sitesi
+Beauty Saloon
 
 Bu proje, Ebru Karnak Güzellik Merkezi'nin dijital varlığını güçlendirmek amacıyla hazırlanmış bir web sitesidir. Proje, kullanıcı dostu bir arayüz, mobil uyumluluk ve modern tasarım ilkeleri göz önünde bulundurularak geliştirilmiştir.
 
